@@ -14,8 +14,6 @@
 
 ### GitHub Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkhatri137&show_icons=true&locale=en" alt="Rahul" /></p>
-<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=rahulkhatri137" /></p>
-<p><img src="https://activity-graph.herokuapp.com/graph?username=rahulkhatri137&bg_color=FFFFFF&color=FF0000&line=F85D7F&point=1F222E&hide_border=true" /></p>
 <br>
 
 ### GitHub Info
