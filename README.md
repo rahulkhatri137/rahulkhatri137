@@ -2,7 +2,8 @@
 
 - Tech Enthusiast
 - Playing with Android system images 
-- Learning new stuff everyday
+- Automation Friend
+- Open Source
 
 ### Connect
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
