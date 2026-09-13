@@ -14,7 +14,7 @@
 <br>
 
 ### GitHub Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkhatri137&show_icons=true&locale=en" alt="Rahul" /></p>
+<p><img align="center" src="https://github-stats-extended.vercel.app/api?username=rahulkhatri137&show_icons=true&locale=en" alt="Rahul" /></p>
 <br>
 
 ### GitHub Info
